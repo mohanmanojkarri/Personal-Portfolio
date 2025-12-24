@@ -22,3 +22,13 @@ A modern, responsive personal portfolio website built to showcase my skills, pro
 - **Google Fonts** – Typography  
 - **EmailJS** – Contact form email service  
 
+## 📸 Sections Included
+
+- **Home** – Introduction and quick overview
+- **About Me** – Education and background
+- **Skills** – Technical skill set
+- **Projects** – Interactive project showcase
+- **Contact** – Feedback form and social links
+
+  ## 🔗 Live Demo
+ - https://mohanmanojkarri.github.io/Personal-Portfolio
